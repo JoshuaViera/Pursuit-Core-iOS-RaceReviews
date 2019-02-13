@@ -43,14 +43,14 @@ pod 'Firebase/Storage'
 - [x] add email/password authentication to the firebase project
 - [x] create .xib login view
 - [x] user can create an authenticated account using their email and password
-- [ ] user is created in cloud firestore database after successfullly creating an account
+- [x] user is created in cloud firestore database after successfullly creating an account
 - [x] present the race reviews tab controller if login is successful
 - [x] architect login flow in the app delegate base on current user sign in state
 - [x] user can sign out of the app 
 - [x] present the login view controller when the user signs out
 - [x] existing user can sign in to the app 
 - [x] race review creation UI includes textfield to enter name and text view for review (firebase database)
-- [ ] user can create a review (create)
+- [x] user can create a review (create)
 - [ ] user can see an annotation on a MapView of their created review (read)
 - [ ] user can udpate a review (only if userId == reviewerId) (update) 
 - [ ] user can delete a review (only if userId == reviewerId) (delete) 
